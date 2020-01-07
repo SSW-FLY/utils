@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b82cbca9-4715-4ba1-bc61-ea68a3322bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yc-poi/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/POIUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/itcode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yc-poi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/yc-poi/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +42,7 @@
   <component name="ProjectId" id="1W3ABbYM1PQQzKVWfC2f587gfr2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -70,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578367769403</updated>
       <workItem from="1578367773721" duration="1638000" />
-      <workItem from="1578370803028" duration="2109000" />
+      <workItem from="1578370803028" duration="3594000" />
     </task>
     <servers />
   </component>
