@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b82cbca9-4715-4ba1-bc61-ea68a3322bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yc-poi/src/test/java/itcode/TestDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/POIUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/POIUtils.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,6 +64,29 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="TestDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yc-poi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcode" />
+      <option name="MAIN_CLASS_NAME" value="itcode.TestDemo" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDemo.test01" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -74,7 +98,7 @@
       <option name="presentableId" value="Default" />
       <updated>1578367769403</updated>
       <workItem from="1578367773721" duration="1638000" />
-      <workItem from="1578370803028" duration="4550000" />
+      <workItem from="1578370803028" duration="9221000" />
     </task>
     <servers />
   </component>

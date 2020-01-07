@@ -71,6 +71,7 @@ public class POIUtils {
     workBook.write(out);
   }
 
+  // 处理文件夹路径.
   public static String dealPath(String path) {
     if (!path.endsWith("\\")) {
       path = path + "\\";
