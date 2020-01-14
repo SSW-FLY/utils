@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b82cbca9-4715-4ba1-bc61-ea68a3322bb9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/yc-poi/src/test/java/itcode/TestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/itcode/FunctionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/excel/cell/CellUtils.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/POIUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/yc-poi/src/main/java/itcode/utils/POIUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yc-poi/src/test/java/itcode/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/yc-poi/src/test/java/itcode/TestDemo.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +66,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestDemo.test06">
     <configuration name="TestDemo.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="yc-poi" />
       <extension name="coverage">
@@ -81,8 +83,76 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestDemo.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yc-poi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcode" />
+      <option name="MAIN_CLASS_NAME" value="itcode.TestDemo" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yc-poi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcode" />
+      <option name="MAIN_CLASS_NAME" value="itcode.TestDemo" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yc-poi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcode" />
+      <option name="MAIN_CLASS_NAME" value="itcode.TestDemo" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDemo.test06" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="yc-poi" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="itcode" />
+      <option name="MAIN_CLASS_NAME" value="itcode.TestDemo" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestDemo.test06" />
+        <item itemvalue="JUnit.TestDemo.test05" />
+        <item itemvalue="JUnit.TestDemo.test04" />
+        <item itemvalue="JUnit.TestDemo.test03" />
         <item itemvalue="JUnit.TestDemo.test01" />
       </list>
     </recent_temporary>
@@ -98,7 +168,14 @@
       <option name="presentableId" value="Default" />
       <updated>1578367769403</updated>
       <workItem from="1578367773721" duration="1638000" />
-      <workItem from="1578370803028" duration="9221000" />
+      <workItem from="1578370803028" duration="11605000" />
+      <workItem from="1578448480135" duration="3187000" />
+      <workItem from="1578453805512" duration="1197000" />
+      <workItem from="1578474012363" duration="597000" />
+      <workItem from="1578535883873" duration="1841000" />
+      <workItem from="1578880100911" duration="5574000" />
+      <workItem from="1578966741559" duration="6334000" />
+      <workItem from="1578981906034" duration="2994000" />
     </task>
     <servers />
   </component>

@@ -9,6 +9,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.UUID;
 import java.util.stream.Collectors;
+import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.ss.usermodel.Row;
 import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.apache.poi.xssf.usermodel.XSSFRow;
@@ -20,7 +21,7 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
  */
 public class POIUtils {
 
-  public static XSSFWorkbook createWorkBook(String path) {
+  public static XSSFWorkbook createWorkBook() {
     XSSFWorkbook workbook = new XSSFWorkbook();
     return workbook;
   }
@@ -64,6 +65,7 @@ public class POIUtils {
           for (int i1 = 0; i1 < cellNum; i1++) {
             XSSFCell cell = row2.createCell(i1);
             cell.setCellValue(row1.getCell(i1).getNumericCellValue());
+            CellType cellType = cell.getCellType();
           }
         }
       }
